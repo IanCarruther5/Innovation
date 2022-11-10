@@ -1,0 +1,47 @@
+[
+  {
+    "Input": {
+      "IsRushOrder": null,
+      "OrderType": 0,
+      "IsNewCustomer": true,
+      "IsLargeOrder": true
+    },
+    "OrderStatus": 1
+  },
+  {
+    "Input": {
+      "IsRushOrder": true,
+      "OrderType": 1,
+      "IsNewCustomer": null,
+      "IsLargeOrder": true
+    },
+    "OrderStatus": 1
+  },
+  {
+    "Input": {
+      "IsRushOrder": null,
+      "OrderType": 0,
+      "IsNewCustomer": null,
+      "IsLargeOrder": true
+    },
+    "OrderStatus": 2
+  },
+  {
+    "Input": {
+      "IsRushOrder": true,
+      "OrderType": null,
+      "IsNewCustomer": true,
+      "IsLargeOrder": null
+    },
+    "OrderStatus": 2
+  },
+  {
+    "Input": {
+      "IsRushOrder": null,
+      "OrderType": null,
+      "IsNewCustomer": null,
+      "IsLargeOrder": null
+    },
+    "OrderStatus": 0
+  }
+]
